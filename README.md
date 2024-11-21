@@ -7,6 +7,9 @@ ACSIINEMA 1-10
 ASCIINEMA 11-20
 [![asciicast](https://asciinema.org/a/2lXonYqnvtDkTD8ky6KkJcCGl.svg)](https://asciinema.org/a/2lXonYqnvtDkTD8ky6KkJcCGl)
 
+ASCIINEMA 21-30
+[![asciicast](https://asciinema.org/a/RRsRrWKm0EeEvoZVmszIcpYxi.svg)](https://asciinema.org/a/RRsRrWKm0EeEvoZVmszIcpYxi)
+
 ASCIINEMA 31-40
 [![asciicast](https://asciinema.org/a/ro5OkIh0LvGZ55mTiNNwcRWh2.svg)](https://asciinema.org/a/ro5OkIh0LvGZ55mTiNNwcRWh2)
 
